@@ -79,7 +79,7 @@ insurellm_project/
 
 4. **Run the application**
    ```bash
-   streamlit src/rag_app.py
+   streamlit run rag_app.py
    ```
 
 ## Usage
