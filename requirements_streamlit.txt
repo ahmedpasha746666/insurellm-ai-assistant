@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+openai>=1.0.0
+chromadb>=0.4.0
+litellm>=1.0.0
+pydantic>=2.0.0
+
+
+pathlib (built-in)
+tqdm
+numpy
+sklearn
+plotly
