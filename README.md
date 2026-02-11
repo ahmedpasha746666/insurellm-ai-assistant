@@ -68,7 +68,7 @@ insurellm_project/
 
 2. **Install dependencies**
    ```bash
-   pip install -r src/requirements_streamlit.txt
+   pip install -r requirements_streamlit.txt
    ```
 
 3. **Pull required Ollama models**
@@ -79,7 +79,7 @@ insurellm_project/
 
 4. **Run the application**
    ```bash
-   streamlit run src/rag_app.py
+   streamlit src/rag_app.py
    ```
 
 ## Usage
